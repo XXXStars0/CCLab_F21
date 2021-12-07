@@ -1,0 +1,37 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background: Lightyellow;
+}
+
+p{
+background-color: white;
+}
+
+h1 {
+  background-color: yellow;
+  font-family: 'Bayon';font-size: 36px;
+}
+
+p1{
+  font-size: 28px;
+  color:blue;
+  font-family: 'Bayon';
+}
+
+div {
+  width: 66%;
+  border: 15px solid;
+  padding: 5px;
+  margin: 20px;
+  position:relative;
+  left:15%;
+}
+.box1{
+  background:lightblue;
+  border: 15px solid blue;
+}
+div.box2{
+  background:lightgrey;
+  border: 10px solid black;
+}

@@ -1,0 +1,39 @@
+html,body {
+  font-family: 'Montserrat Alternates', sans-serif;
+  background-color:#f5fbff;
+}
+
+h1{
+font-family: 'Montserrat Alternates', sans-serif;
+background-color: blue;
+}
+
+p1{
+  font-size: 24px;
+}
+
+div {
+  border: 15px solid;
+  padding: 5px;
+  margin: 20px;
+  background-color: lightgrey;
+}
+div.box1{
+  background:skyblue;
+  border: 15px solid blue;
+}
+div.box2{
+  position: fixed;
+}
+
+:link {
+  color: blue;
+}
+
+a:visited {
+  color: grey;
+}
+
+a:hover {
+  color: darkblue;
+}

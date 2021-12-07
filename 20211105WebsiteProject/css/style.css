@@ -1,0 +1,46 @@
+
+h2 {
+  background-color: skyblue;
+  font-family: 'Bayon';font-size: 36px;
+}
+
+h1 {
+  background-color: skyblue;
+}
+
+a:link {
+  color: skyblue;
+}
+
+a:visited {
+  color: grey;
+}
+
+a:hover {
+  color: orange;
+}
+
+a2{
+  color:black;
+}
+
+a3{
+  font-size: large;
+  color:yellow;
+}
+
+a4{
+  color:skyblue;
+}
+
+a5{
+  color:darkblue;
+}
+
+a6{
+    font-size: 5px;
+}
+
+a7{
+    font-size: 24px;
+}
