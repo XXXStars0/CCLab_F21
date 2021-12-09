@@ -9,10 +9,10 @@ var cupOfTea=0,rb_tea=false,pita_tea=false,owl_fru=false;
 
 function preload(){
   //Heroine Related
-  anim_heroine_F = loadAnimation(loadSpriteSheet('img/heroine-F.png', 96, 96, 4));
-  anim_heroine_L = loadAnimation(loadSpriteSheet('img/heroine-L.png', 96, 96, 4));
-  anim_heroine_R = loadAnimation(loadSpriteSheet('img/heroine-R.png', 96, 96, 4));
-  anim_heroine_B = loadAnimation(loadSpriteSheet('img/heroine-B.png', 96, 96, 4));
+  anim_heroine_F = loadAnimation(loadSpriteSheet('img/Heroine-F.png', 96, 96, 4));
+  anim_heroine_L = loadAnimation(loadSpriteSheet('img/Heroine-L.png', 96, 96, 4));
+  anim_heroine_R = loadAnimation(loadSpriteSheet('img/Heroine-R.png', 96, 96, 4));
+  anim_heroine_B = loadAnimation(loadSpriteSheet('img/Heroine-B.png', 96, 96, 4));
   //Friends Related
   anim_dino = loadAnimation(loadSpriteSheet('img/Dinosaur.png', 60, 60, 4));
   anim_btea = loadAnimation(loadSpriteSheet('img/Bubbletea.png', 60, 60, 4));
